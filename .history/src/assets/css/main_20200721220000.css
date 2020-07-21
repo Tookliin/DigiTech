@@ -1,0 +1,24 @@
+
+
+.navbar {
+    background-color: transparent;
+}
+
+
+.top-nav-collapse {
+  background-color: #39448c !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 991px) {
+ .navbar:not(.top-nav-collapse) {
+  background: #39448c !important;
+ }
+}
+
+h6 {
+  line-height: 1.7;
+}

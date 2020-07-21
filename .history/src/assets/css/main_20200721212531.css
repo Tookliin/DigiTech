@@ -1,0 +1,10 @@
+.double-nav .breadcrumb-dn {
+    color: #fff;
+  }
+
+  $(document).ready(() => {
+    // SideNav Initialization
+    $(".button-collapse").sideNav();
+  
+    new WOW().init();
+  });
