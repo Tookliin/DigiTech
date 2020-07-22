@@ -345,7 +345,7 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Male Asset Investment</small>
+            <small class="text-white">Male Investment</small>
             <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
@@ -353,11 +353,11 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Asset Investment</small>
+            <small class="text-white">Female Investment</small>
             <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
           </div>
         </div>
       </div>

@@ -176,7 +176,7 @@
             <div class="progress-bar grey darken-3" role="progressbar" style="width: 69%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body pt-2 pb-3">
-            <p class="small mb-0">2020 Dropped From (75%) - (49%)</p>
+            <p class="small mb-0">Monthly Peek (75%)</p>
           </div>
         </div>
       </div>
@@ -186,13 +186,13 @@
           <div class="card-body py-3">
             <i class="fas fa-chart-line"></i>
             <p class="small">Credit For Business</p>
-            <h4>2017-2018</h4>
+            <h4>200</h4>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg grey darken-3" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar bg grey darken-3" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body pt-2 pb-3">
-            <p class="small mb-0">2020 Significant Drop (65%) (35%)</p>
+            <p class="small mb-0">Worse than last week (25%)</p>
           </div>
         </div>
       </div>
@@ -201,14 +201,14 @@
         <div class="traffic card classic-admin-card light-blue lighten-1">
           <div class="card-body py-3">
             <i class="fas fa-chart-pie"></i>
-            <p class="small">Policy & Insurance</p>
-            <h4>2017-2018</h4>
+            <p class="small">TRAFFIC</p>
+            <h4>20000</h4>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar grey darken-3" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar grey darken-3" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body pt-2 pb-3">
-            <p class="small mb-0">2020 Dropped (75%) - (45%)</p>
+            <p class="small mb-0">Better than last week (75%)</p>
           </div>
         </div>
       </div>
@@ -217,14 +217,14 @@
         <div class="organic card classic-admin-card red accent-2">
           <div class="card-body py-3">
             <i class="fas fa-chart-bar"></i>
-            <p class="small">Open Saving</p>
-            <h4>2017-2018</h4>
+            <p class="small">ORGANIC TRAFFIC</p>
+            <h4>2000</h4>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar grey darken-3" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar grey darken-3" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body pt-2 pb-3">
-            <p class="small mb-0">2020 Increased (25%) - +(89%)</p>
+            <p class="small mb-0">Better than last week (25%)</p>
           </div>
         </div>
       </div>
@@ -345,7 +345,7 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Male Asset Investment</small>
+            <small class="text-white"></small>
             <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
@@ -353,11 +353,11 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Asset Investment</small>
+            <small class="text-white">Property Owners</small>
             <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
           </div>
         </div>
       </div>

@@ -205,7 +205,7 @@
             <h4>2017-2018</h4>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar grey darken-3" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar grey darken-3" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body pt-2 pb-3">
             <p class="small mb-0">2020 Dropped (75%) - (45%)</p>
@@ -345,7 +345,7 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Male Asset Investment</small>
+            <small class="text-white"></small>
             <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
@@ -353,11 +353,11 @@
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Asset Investment</small>
+            <small class="text-white">Property Owners</small>
             <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
           </div>
         </div>
       </div>
