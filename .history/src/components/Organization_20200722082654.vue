@@ -144,7 +144,7 @@
     </p>
     <div class="text-center text-muted mb-5">
         <input type="file" name="form" id="form">
-        <a class="primary-color"></a>
+        <a class="primary-color">AWS</a>
     </div>
     
 
@@ -221,152 +221,44 @@
     <div class="card" style="background-color: #181C30;">
       <div class="card-body">
 
-        <div class="row">
-        <div class="col-md-4 mb-4">
-
-          <h5 class="text-center text-white font-weight-bold mb-4">Male</h5>
-
-          <div class="d-flex justify-content-between">
-            <small class="text-white">Credit Card & Loans</small>
-            <small class="text-white"><span><strong>590</strong></span>/<span></span>1000</small>
-          </div>
-
-          <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 59%"
-        ></div>
-          </div>
-
-        <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Active Members</small>
-            <small class="text-white"><span><strong>800</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" 
-            ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 78%" ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
-          </div>
-        </div>
-
-
-      <div class="col-md-4 mb-4">
-          <h5 class="text-center text-white font-weight-bold mb-4">Female</h5>
- 
-          <div class="d-flex justify-content-between">
-            <small class="text-white">Credit Card & Loans</small>
-            <small class="text-white"><span><strong>700</strong></span>/<span></span>1000</small>
-          </div>
-
-          <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 70%"
-        ></div>
-          </div>
-
-        <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Active Members</small>
-            <small class="text-white"><span><strong>430</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 39%" 
-            ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>450</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>180</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 18%" ></div>
-          </div>
-        </div>
-
- 
-
-        <div class="col-md-4 mb-4">
-          <h5 class="text-center text-white font-weight-bold mb-4">Income By Sex</h5>
-       
-          <div class="d-flex justify-content-between">
-            <small class="text-white">Male Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>-<span></span> R300K</small>
-          </div>
-
-          <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 90%"
-        ></div>
-          </div>
-
-        <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>/<span></span>R 300K</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 18.2%" 
-            ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 78%" ></div>
-          </div>
-
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
-          </div>
-        </div>
-      </div>
-
         <canvas id="lineChart" class="mb-4" height="100"></canvas>
+
+        <!--Grid row-->
         <div class="row text-center text-white">
+
+          <!--Grid column-->
           <div class="col-md-4 mb-4 mb-md-0">
+
             <p class="text-success mb-1"><i class="fas fa-caret-up mr-2"></i>17%</p>
             <p class="font-weight-bold mb-1">$35 210</p>
-            <p class="text-uppercase mb-md-0">Males</p>
-          </div>
+            <p class="text-uppercase mb-md-0">Sales</p>
 
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
           <div class="col-md-4 mb-4 mb-md-0">
+
             <p class="text-danger mb-1"><i class="fas fa-caret-down mr-2"></i>17%</p>
             <p class="font-weight-bold mb-1">4 578</p>
-            <p class="text-uppercase mb-md-0">Females</p>
-          </div>
+            <p class="text-uppercase mb-md-0">Subscriptions</p>
 
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
           <div class="col-md-4 mb-0">
+
             <p class="text-grey mb-1"><i class="fas fa-caret-left mr-2"></i>0%</p>
             <p class="font-weight-bold mb-1">678 934</p>
-            <p class="text-uppercase mb-0">Credit Card Owners</p>
+            <p class="text-uppercase mb-0">Traffic</p>
           </div>
         </div>
       </div>
     </div>
   </section>
+
+
     </div>
 </template>
 <script>

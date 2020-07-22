@@ -322,7 +322,7 @@
             <small class="text-white"><span><strong>R 90K</strong></span>/<span></span>R 300K</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 18.2%" 
+            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" 
             ></div>
           </div>
 

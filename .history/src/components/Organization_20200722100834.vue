@@ -309,7 +309,7 @@
        
           <div class="d-flex justify-content-between">
             <small class="text-white">Male Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>-<span></span> R300K</small>
+            <small class="text-white"><span><strong>R 90K/m</strong></span>-<span></span>R300K/m</small>
           </div>
 
           <div class="progress md-progress">
@@ -318,11 +318,11 @@
           </div>
 
         <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>/<span></span>R 300K</small>
+            <small class="text-white">Active Members</small>
+            <small class="text-white"><span><strong>800</strong></span>/<span></span>1000</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 18.2%" 
+            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" 
             ></div>
           </div>
 

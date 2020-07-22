@@ -220,126 +220,137 @@
 
     <div class="card" style="background-color: #181C30;">
       <div class="card-body">
+            <div class="text-center text-muted mb-5">
+                <a class="primary-color">AWS</a>
+                     
+            </div>
+                <div class="row">
 
-        <div class="row">
+        <!--Grid column-->
         <div class="col-md-4 mb-4">
 
           <h5 class="text-center text-white font-weight-bold mb-4">Male</h5>
 
           <div class="d-flex justify-content-between">
-            <small class="text-white">Credit Card & Loans</small>
-            <small class="text-white"><span><strong>590</strong></span>/<span></span>1000</small>
+            <small class="text-white">Credit Card</small>
+            <small><span><strong>680</strong></span>/<span></span>100</small>
           </div>
 
           <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 59%"
-        ></div>
+            <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
 
         <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Active Members</small>
-            <small class="text-white"><span><strong>800</strong></span>/<span></span>1000</small>
+            <small class="text-white">Active Member</small>
+            <small><span><strong>480</strong></span>/<span></span>800</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" 
-            ></div>
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
+            <small class="text-white">Visit Premium Page</small>
+            <small><span><strong>480</strong></span>/<span></span>800</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 78%" ></div>
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
 
           <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
+            <small class="text-white">Send Inquiries</small>
+            <small><span><strong>250</strong></span>/<span></span>500</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
 
       <div class="col-md-4 mb-4">
           <h5 class="text-center text-white font-weight-bold mb-4">Female</h5>
- 
           <div class="d-flex justify-content-between">
-            <small class="text-white">Credit Card & Loans</small>
-            <small class="text-white"><span><strong>700</strong></span>/<span></span>1000</small>
+            <small class="text-muted">Add products to cart</small>
+            <small><span><strong>160</strong></span>/<span></span>200</small>
+          </div>
+          <div class="progress md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 55%" aria-valuenow="55"
+              aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Complete Purchase</small>
+            <small><span><strong>310</strong></span>/<span></span>400</small>
           </div>
 
           <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 70%"
-        ></div>
+            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+              aria-valuemax="100"></div>
           </div>
 
-        <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Active Members</small>
-            <small class="text-white"><span><strong>430</strong></span>/<span></span>1000</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 39%" 
-            ></div>
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Visit Premium Page</small>
+            <small><span><strong>480</strong></span>/<span></span>800</small>
           </div>
 
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>450</strong></span>/<span></span>1000</small>
-          </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" ></div>
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" aria-valuenow="45"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
 
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>180</strong></span>/<span></span>1000</small>
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Send Inquiries</small>
+            <small><span><strong>250</strong></span>/<span></span>500</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 18%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
  
 
         <div class="col-md-4 mb-4">
-          <h5 class="text-center text-white font-weight-bold mb-4">Income By Sex</h5>
-       
+          <h5 class="text-center text-white font-weight-bold mb-4">Female</h5>
           <div class="d-flex justify-content-between">
-            <small class="text-white">Male Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>-<span></span> R300K</small>
+            <small class="text-muted">Add products to cart</small>
+            <small><span><strong>160</strong></span>/<span></span>200</small>
+          </div>
+          <div class="progress md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 55%" aria-valuenow="55"
+              aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Complete Purchase</small>
+            <small><span><strong>310</strong></span>/<span></span>400</small>
           </div>
 
           <div class="progress md-progress">
-            <div class="progress-bar bg-success" role="progressbar" style="width: 90%"
-        ></div>
+            <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+              aria-valuemax="100"></div>
           </div>
 
-        <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Female Executives</small>
-            <small class="text-white"><span><strong>R 90K</strong></span>/<span></span>R 300K</small>
-          </div>
-          <div class="progress md-progress">
-            <div class="progress-bar bg-info" role="progressbar" style="width: 18.2%" 
-            ></div>
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Visit Premium Page</small>
+            <small><span><strong>480</strong></span>/<span></span>800</small>
           </div>
 
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Permanent Income</small>
-            <small class="text-white"><span><strong>780</strong></span>/<span></span>1000</small>
-          </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-warning" role="progressbar" style="width: 78%" ></div>
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" aria-valuenow="45"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
 
-          <div class="d-flex justify-content-between mt-2">
-            <small class="text-white">Property Owners</small>
-            <small class="text-white"><span><strong>900</strong></span>/<span></span>1000</small>
+          <div class="d-flex justify-content-between">
+            <small class="text-muted">Send Inquiries</small>
+            <small><span><strong>250</strong></span>/<span></span>500</small>
           </div>
           <div class="progress md-progress">
-            <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" ></div>
+            <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100"
+              aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
       </div>
