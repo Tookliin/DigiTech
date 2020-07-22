@@ -3,14 +3,14 @@
         <header>
   <div class="">
     <!-- Mask & flexbox options-->
-    <div class="register" style="height: 100vh;">
+    <div class="profile" style="height: 100vh;">
       <!-- Content -->
       <div class="container h-100" >
     
         <div class="row align-items-center">
           
           <div class=" col-md-6">
-                <div class="register-form">
+                <div class="register">
               <div class="card-body z-depth-2 px-4">
                 <div class="md-form mt-3">
                   <i class="fa fa-user prefix grey-text"></i>

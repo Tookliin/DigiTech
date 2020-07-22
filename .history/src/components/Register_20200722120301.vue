@@ -3,7 +3,7 @@
         <header>
   <div class="">
     <!-- Mask & flexbox options-->
-    <div class="register" style="height: 100vh;">
+    <div class="profile" style="height: 100vh;">
       <!-- Content -->
       <div class="container h-100" >
     

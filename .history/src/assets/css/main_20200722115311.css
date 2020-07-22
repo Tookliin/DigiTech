@@ -61,24 +61,16 @@ background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
 
 }
 
-.register-form{
-    background-color: #D9AFD9;
-    background-image: -webkit-linear-gradient(0deg, #e6d9e6 0%, #97D9E1 100%);
-    background-image: -moz-linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
-    background-image: -o-linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
-    background-image: linear-gradient(0deg, #D9AFD9 0%, #d6e2e4 100%);
-
-}
 .register{
-
-background-image: url("../images/sd.png");
-background-position: center;
-background-size: cover;
+    background-color: #D9AFD9;
+background-image: -webkit-linear-gradient(0deg, #e6d9e6 0%, #97D9E1 100%);
+background-image: -moz-linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+background-image: -o-linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+background-image: linear-gradient(0deg, #D9AFD9 0%, #d6e2e4 100%);
 }
-
 
 .analytics{
-background-image: url("../images/sd.png");
+background-image: url("../images/data.jpeg");
 background-position: center;
 background-size: cover;
 height: 80vh;
